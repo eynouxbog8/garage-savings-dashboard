@@ -1,0 +1,6 @@
+decline_reason_id,decline_reason
+1,Excessive mileage request
+2,Not chargeable under agreement
+3,Insufficient evidence
+4,Not authorised
+5,Duplicate charge

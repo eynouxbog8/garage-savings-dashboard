@@ -1,0 +1,121 @@
+garage_id,region,garage_type
+G001,London & South East,Mechanical
+G002,North East & Yorkshire,Body Shop
+G003,North West,Recovery
+G004,Midlands,Recovery
+G005,Midlands,Recovery
+G006,South West,Recovery
+G007,Wales,Mechanical
+G008,London & South East,Mechanical
+G009,North East & Yorkshire,Recovery
+G010,Midlands,Mechanical
+G011,East of England,Body Shop
+G012,Wales,Mechanical
+G013,North East & Yorkshire,Mechanical
+G014,South West,Body Shop
+G015,North West,Recovery
+G016,Scotland,Mechanical
+G017,North West,Mechanical
+G018,Midlands,Mechanical
+G019,Midlands,Recovery
+G020,Midlands,Mechanical
+G021,North West,Mechanical
+G022,North West,Recovery
+G023,North East & Yorkshire,Recovery
+G024,London & South East,Recovery
+G025,North West,Body Shop
+G026,Midlands,Recovery
+G027,London & South East,Recovery
+G028,North East & Yorkshire,Recovery
+G029,North West,Recovery
+G030,Midlands,Recovery
+G031,London & South East,Body Shop
+G032,Scotland,Recovery
+G033,South West,Mechanical
+G034,North East & Yorkshire,Recovery
+G035,Midlands,Mechanical
+G036,Wales,Recovery
+G037,North West,Mechanical
+G038,North West,Recovery
+G039,Wales,Recovery
+G040,Midlands,Mechanical
+G041,North East & Yorkshire,Mechanical
+G042,Midlands,Recovery
+G043,Midlands,Recovery
+G044,North East & Yorkshire,Mechanical
+G045,Midlands,Recovery
+G046,North West,Recovery
+G047,North East & Yorkshire,Body Shop
+G048,London & South East,Recovery
+G049,South West,Recovery
+G050,North West,Recovery
+G051,North East & Yorkshire,Recovery
+G052,Midlands,Recovery
+G053,North West,Mechanical
+G054,North West,Body Shop
+G055,North West,Body Shop
+G056,North East & Yorkshire,Recovery
+G057,North East & Yorkshire,Body Shop
+G058,Midlands,Recovery
+G059,London & South East,Mechanical
+G060,South West,Recovery
+G061,North West,Mechanical
+G062,Midlands,Mechanical
+G063,North West,Body Shop
+G064,London & South East,Body Shop
+G065,Wales,Recovery
+G066,East of England,Mechanical
+G067,London & South East,Mechanical
+G068,Midlands,Recovery
+G069,South West,Mechanical
+G070,Midlands,Recovery
+G071,North West,Recovery
+G072,Midlands,Recovery
+G073,South West,Recovery
+G074,East of England,Mechanical
+G075,Scotland,Mechanical
+G076,North East & Yorkshire,Recovery
+G077,London & South East,Body Shop
+G078,Wales,Recovery
+G079,London & South East,Recovery
+G080,Midlands,Recovery
+G081,Midlands,Mechanical
+G082,North East & Yorkshire,Mechanical
+G083,North West,Recovery
+G084,London & South East,Mechanical
+G085,London & South East,Mechanical
+G086,North East & Yorkshire,Mechanical
+G087,North West,Recovery
+G088,North East & Yorkshire,Recovery
+G089,North West,Body Shop
+G090,Wales,Body Shop
+G091,Wales,Recovery
+G092,London & South East,Mechanical
+G093,Wales,Recovery
+G094,South West,Recovery
+G095,North East & Yorkshire,Recovery
+G096,North East & Yorkshire,Recovery
+G097,North West,Recovery
+G098,Wales,Body Shop
+G099,Midlands,Mechanical
+G100,North East & Yorkshire,Recovery
+G101,Scotland,Recovery
+G102,London & South East,Recovery
+G103,North East & Yorkshire,Mechanical
+G104,Midlands,Recovery
+G105,South West,Recovery
+G106,London & South East,Recovery
+G107,North East & Yorkshire,Mechanical
+G108,Scotland,Body Shop
+G109,North East & Yorkshire,Mechanical
+G110,Midlands,Body Shop
+G111,North East & Yorkshire,Recovery
+G112,Midlands,Recovery
+G113,North East & Yorkshire,Body Shop
+G114,London & South East,Mechanical
+G115,Midlands,Recovery
+G116,London & South East,Recovery
+G117,London & South East,Recovery
+G118,North West,Mechanical
+G119,Midlands,Recovery
+G120,North West,Recovery

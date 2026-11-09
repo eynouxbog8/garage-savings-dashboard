@@ -1,0 +1,10 @@
+charge_type_id,charge_type,charge_group
+1,Additional Mileage,Mileage
+2,Trailer Mileage,Mileage
+3,Skates,Equipment & Fees
+4,Winching,Equipment & Fees
+5,Crane / Hiab,Equipment & Fees
+6,Tolls,Equipment & Fees
+7,Ferry,Equipment & Fees
+8,Callout Fee,Equipment & Fees
+9,Misc Charges,Equipment & Fees
